@@ -1,23 +1,25 @@
-# Cyber Heat Radar
+# cyberheatradar
 
-Cyber Heat Radar は、サイバーセキュリティ関連ニュースを収集し、話題の「温度感」に基づいて注目トピックを整理する情報収集プロジェクトです。
+サイバーセキュリティ関連の情報収集・調査・実務支援ツールを公開しています。
 
-脆弱性、攻撃観測、ランサムウェア、国内外のセキュリティニュースなどを対象に、日々の把握に役立つ情報を整理します。
+## 公開プロジェクト
 
-## Latest report
+### [Cyber Heat Radar](https://github.com/cyberheatradar/cyber-heat-radar)
 
-- [最新レポート](https://github.com/cyberheatradar/cyber-heat-radar/blob/main/reports/latest.md)
-- [過去レポート一覧](https://github.com/cyberheatradar/cyber-heat-radar/tree/main/reports)
+サイバーセキュリティ関連ニュースの温度感レポートです。  
+脆弱性、攻撃観測、ランサムウェア、国内外のセキュリティニュースなどを収集し、05:00 / 11:00 / 17:00 JST に整理して公開します。
+
+### [CVE Evidence Radar](https://github.com/cyberheatradar/cve-evidence-radar)
+
+CVEに関する公開エビデンスを整理するプロジェクトです。  
+PoC、Exploit、スキャナテンプレート、防御ルール、ベンダー告知、CTI情報などを集約します。脆弱性の再現性や悪用可能性を断定するものではありません。
+
+### [Pentest Command Atlas](https://github.com/cyberheatradar/pentest-command-atlas)
+
+ペネトレーションテスト向けのコマンド整理ツールです。  
+Active Directory、Windows、Linux、その他の実務的な調査・攻撃パス確認に使うコマンド、出力の見方、次の確認ポイントを整理します。
 
 ## Channels
 
 - [X](https://x.com/cyberheatradar)
 - [YouTube](https://www.youtube.com/@cyberheatradar)
-
-## Schedule
-
-05:00 / 11:00 / 17:00 JST
-
-## Note
-
-本プロジェクトは公開情報をもとにした要約・整理を目的としており、特定企業・製品の宣伝を目的としたものではありません。
