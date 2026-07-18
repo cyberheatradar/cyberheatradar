@@ -9,7 +9,7 @@
 サイバーセキュリティ関連ニュースの温度感レポートです。  
 脆弱性、攻撃観測、ランサムウェア、国内外のセキュリティニュースなどを収集し、05:00 / 11:00 / 17:00 JST に整理して公開します。
 
-### [ThreatActorRadar](https://github.com/cyberheatradar/threat-actor-radar)
+### [Threat Actor Radar](https://github.com/cyberheatradar/threat-actor-radar)
 
 脅威アクターに関する公開情報を整理するプロジェクトです。  
 攻撃活動の時系列、アクター間の関係、使用されたコマンドやソフトウェア、MITRE ATT&CKの観測情報などを追跡できる形で公開します。
